@@ -23,7 +23,7 @@
 
 - - -
 
-## IndiePipeline
+## 🎮 IndiePipeline
 [![GitHub followers](https://img.shields.io/github/followers/indie-pipeline?label=Follow&style=social)](https://github.com/indie-pipeline?tab=followers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/indie-pipeline) 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/indie-pipeline)
@@ -34,7 +34,7 @@ I've founded [this organization](https://github.com/Indie-Pipeline) dedicated to
   <img src="https://avatars.githubusercontent.com/u/183589340" alt="indie-pipeline-logo" width="200"/>
 </div>
 
-
+- - -
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=ninetailsrabbit&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
