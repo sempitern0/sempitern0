@@ -35,6 +35,11 @@ I've founded [this organization](https://github.com/Indie-Pipeline) dedicated to
 </div>
 
 - - -
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=ninetailsrabbit&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/ninetailsrabbit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ninetailsrabbit&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninetailsrabbit&layout=compact&langs_count=8&theme=moltack"/>
+</a>
+</p>
