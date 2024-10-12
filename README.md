@@ -22,19 +22,6 @@
 - ⚡ Fun fact: I'm not a Rabbit!
 
 - - -
-
-## 🎮 IndiePipeline
-[![GitHub followers](https://img.shields.io/github/followers/indie-pipeline?label=Follow&style=social)](https://github.com/indie-pipeline?tab=followers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/indie-pipeline) 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/indie-pipeline)
-
-I've founded [this organization](https://github.com/Indie-Pipeline) dedicated to creating resources and plugins that streamline video game development with **Godot**. I'm open to exploring opportunities with other engines in the future.
-
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/183589340" alt="indie-pipeline-logo" width="200"/>
-</div>
-
-- - -
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
