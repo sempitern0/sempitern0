@@ -15,11 +15,9 @@
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org)
 [![GDScript](https://img.shields.io/badge/GDScript-5e5086?style=for-the-badge)](https://docs.godotengine.org/es/4.x/tutorials/scripting/gdscript/gdscript_basics.html)
 
-- 🔭 I’m currently working on my Turn RPG game `Hunters of Hope`
-- 🌱 I’m currently learning game development in general while using my background as a programmer and learning game design.
-- 👯 I’m looking to collaborate on open source projects about Godot or tools for devs
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm not a Rabbit!
+I'm a straightforward programmer aiming to make a living from my own indie video games. I'm a quick learner and can adapt to any technology given sufficient time. 
+
+Will I be able to create my own video game engine in the future? This is a question I'll have to answer for myself down the line.
 
 - - -
 ### ⚙️ &nbsp;GitHub Analytics
