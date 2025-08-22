@@ -1,8 +1,8 @@
-## Hi there👋, I'm N9 (ninetailsrabbit)
+## Hi there👋, I'm Sempitern0
 
-[![GitHub followers](https://img.shields.io/github/followers/ninetailsrabbit?label=Follow&style=social)](https://github.com/ninetailsrabbit?tab=followers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/ninetailsrabbit) 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ninetailsrabbit)
+[![GitHub followers](https://img.shields.io/github/followers/sempitern0?label=Follow&style=social)](https://github.com/sempitern0?tab=followers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/sempitern0) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sempitern0)
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -24,8 +24,8 @@ Will I be able to create my own video game engine in the future? This is a quest
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ninetailsrabbit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ninetailsrabbit&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninetailsrabbit&layout=compact&langs_count=8&theme=moltack"/>
+<a href="https://github.com/sempitern0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sempitern0&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sempitern0&layout=compact&langs_count=8&theme=moltack"/>
 </a>
 </p>
