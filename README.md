@@ -33,28 +33,90 @@ I approach engineering through problems, not technology labels. My work spans in
 
 A selection of my more established work in infrastructure, security and developer experience.
 
-| Project | Description |
-| --- | --- |
-| <img src="https://raw.githubusercontent.com/sempitern0/RabbitMole/main/icons/app.png" width="30" alt="RabbitMole icon"> **[RabbitMole](https://github.com/sempitern0/RabbitMole)** | Offline-first workspace for technical audits, evidence, findings and reports. |
-| <img src="https://raw.githubusercontent.com/sempitern0/sysadmin/main/icon.svg" width="30" alt="sysadmin icon"> **[sysadmin](https://github.com/sempitern0/sysadmin)** | Linux, Windows and Active Directory administration, diagnostics and recovery assistants. |
-| <img src="https://raw.githubusercontent.com/sempitern0/laravel-foundry/main/assets/foundry-mark.svg" width="30" alt="Laravel Foundry icon"> **[Laravel Foundry](https://github.com/sempitern0/laravel-foundry)** | Docker-first Laravel development environment with configurable services. |
-| <img src="https://raw.githubusercontent.com/sempitern0/Zeta/main/docs/assets/zeta-terminal-logo.svg" width="65" alt="Zeta logo"> **[Zeta](https://github.com/sempitern0/Zeta)** | Markdown-to-static-site publishing from Bash and PowerShell. |
-| <img src="https://raw.githubusercontent.com/sempitern0/dotfiles/main/icon.svg" width="30" alt="dotfiles icon"> **[dotfiles](https://github.com/sempitern0/dotfiles)** | Reproducible Linux workstation setup and security hardening workflows. |
+<table>
+  <thead>
+    <tr><th align="left" colspan="2">Project</th><th align="left">Description</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="56" align="center" valign="middle"><img src="https://raw.githubusercontent.com/sempitern0/RabbitMole/main/icons/app.png" width="36" height="36" alt="RabbitMole icon"></td>
+      <td width="238" valign="middle"><h4><a href="https://github.com/sempitern0/RabbitMole">RabbitMole</a></h4></td>
+      <td valign="middle">Offline-first workspace for technical audits, evidence, findings and reports.</td>
+    </tr>
+    <tr>
+      <td width="56" align="center" valign="middle"><img src="https://raw.githubusercontent.com/sempitern0/sysadmin/main/icon.svg" width="36" height="36" alt="sysadmin icon"></td>
+      <td width="238" valign="middle"><h4><a href="https://github.com/sempitern0/sysadmin">sysadmin</a></h4></td>
+      <td valign="middle">Linux, Windows and Active Directory administration, diagnostics and recovery assistants.</td>
+    </tr>
+    <tr>
+      <td width="56" align="center" valign="middle"><img src="https://raw.githubusercontent.com/sempitern0/laravel-foundry/main/assets/foundry-mark.svg" width="36" height="36" alt="Laravel Foundry icon"></td>
+      <td width="238" valign="middle"><h4><a href="https://github.com/sempitern0/laravel-foundry">Laravel Foundry</a></h4></td>
+      <td valign="middle">Docker-first Laravel development environment with configurable services.</td>
+    </tr>
+    <tr>
+      <td width="56" align="center" valign="middle"><img src="https://raw.githubusercontent.com/sempitern0/Zeta/main/docs/assets/zeta-terminal-logo.svg" width="44" alt="Zeta logo"></td>
+      <td width="238" valign="middle"><h4><a href="https://github.com/sempitern0/Zeta">Zeta</a></h4></td>
+      <td valign="middle">Markdown-to-static-site publishing from Bash and PowerShell.</td>
+    </tr>
+    <tr>
+      <td width="56" align="center" valign="middle"><img src="https://raw.githubusercontent.com/sempitern0/dotfiles/main/icon.svg" width="36" height="36" alt="dotfiles icon"></td>
+      <td width="238" valign="middle"><h4><a href="https://github.com/sempitern0/dotfiles">dotfiles</a></h4></td>
+      <td valign="middle">Reproducible Linux workstation setup and security hardening workflows.</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Dragonboon
 
 At **[Dragonboon](https://github.com/Dragonboon)**, I build modular Godot tools designed to be useful individually, without imposing an entire framework on a project.
 
-| Project | Description |
-| --- | --- |
-| <img src="https://raw.githubusercontent.com/Dragonboon/Nucleus/main/icon.svg" width="30" alt="Nucleus icon"> **[Nucleus](https://github.com/Dragonboon/Nucleus)** | Composable services and gameplay infrastructure for Godot projects. |
-| <img src="https://raw.githubusercontent.com/Dragonboon/GodoForge/main/icon.svg" width="30" alt="GodoForge icon"> **[GodoForge](https://github.com/Dragonboon/GodoForge)** | Reproducible template for developing and testing Godot addons. |
-| <img src="https://raw.githubusercontent.com/Dragonboon/Atrium/main/docs/assets/atrium-mark.svg" width="30" alt="Atrium icon"> **[Atrium](https://github.com/Dragonboon/Atrium)** | Editor tools for rooms, dungeons and multi-storey 3D blockouts. |
-| <img src="https://raw.githubusercontent.com/Dragonboon/Trispark/main/icon.svg" width="30" alt="Trispark icon"> **[Trispark](https://github.com/Dragonboon/Trispark)** | Configurable match-3 gameplay toolkit. |
-| <img src="https://raw.githubusercontent.com/Dragonboon/Deckit/main/icon.svg" width="30" alt="Deckit icon"> **[Deckit](https://github.com/Dragonboon/Deckit)** | Modular card, deck, zone and turn-based game systems. |
-| <img src="https://raw.githubusercontent.com/Dragonboon/JigsawG/main/addons/jigsawg/icon.svg" width="30" alt="JigsawG icon"> **[JigsawG](https://github.com/Dragonboon/JigsawG)** | Resource-driven, procedural 2D jigsaw puzzles. |
-| <img src="https://raw.githubusercontent.com/Dragonboon/pixel-sprite-monster-generator/main/icon.png" width="30" alt="Monster generator icon"> **[Pixel Sprite Monster Generator](https://github.com/Dragonboon/pixel-sprite-monster-generator)** | Seeded pixel-art creature generation and PNG export. |
-| <img src="https://raw.githubusercontent.com/Dragonboon/pixel-space-background-generator/main/icon.png" width="30" alt="Space background generator icon"> **[Pixel Space Background Generator](https://github.com/Dragonboon/pixel-space-background-generator)** | Procedural, reproducible space backgrounds for 2D games. |
+<table>
+  <thead>
+    <tr><th align="left" colspan="2">Project</th><th align="left">Description</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="56" align="center" valign="middle"><img src="https://raw.githubusercontent.com/Dragonboon/Nucleus/main/icon.svg" width="36" height="36" alt="Nucleus icon"></td>
+      <td width="238" valign="middle"><h4><a href="https://github.com/Dragonboon/Nucleus">Nucleus</a></h4></td>
+      <td valign="middle">Composable services and gameplay infrastructure for Godot projects.</td>
+    </tr>
+    <tr>
+      <td width="56" align="center" valign="middle"><img src="https://raw.githubusercontent.com/Dragonboon/GodoForge/main/icon.svg" width="36" height="36" alt="GodoForge icon"></td>
+      <td width="238" valign="middle"><h4><a href="https://github.com/Dragonboon/GodoForge">GodoForge</a></h4></td>
+      <td valign="middle">Reproducible template for developing and testing Godot addons.</td>
+    </tr>
+    <tr>
+      <td width="56" align="center" valign="middle"><img src="https://raw.githubusercontent.com/Dragonboon/Atrium/main/docs/assets/atrium-mark.svg" width="36" height="36" alt="Atrium icon"></td>
+      <td width="238" valign="middle"><h4><a href="https://github.com/Dragonboon/Atrium">Atrium</a></h4></td>
+      <td valign="middle">Editor tools for rooms, dungeons and multi-storey 3D blockouts.</td>
+    </tr>
+    <tr>
+      <td width="56" align="center" valign="middle"><img src="https://raw.githubusercontent.com/Dragonboon/Trispark/main/icon.svg" width="36" height="36" alt="Trispark icon"></td>
+      <td width="238" valign="middle"><h4><a href="https://github.com/Dragonboon/Trispark">Trispark</a></h4></td>
+      <td valign="middle">Configurable match-3 gameplay toolkit.</td>
+    </tr>
+    <tr>
+      <td width="56" align="center" valign="middle"><img src="https://raw.githubusercontent.com/Dragonboon/Deckit/main/icon.svg" width="36" height="36" alt="Deckit icon"></td>
+      <td width="238" valign="middle"><h4><a href="https://github.com/Dragonboon/Deckit">Deckit</a></h4></td>
+      <td valign="middle">Modular card, deck, zone and turn-based game systems.</td>
+    </tr>
+    <tr>
+      <td width="56" align="center" valign="middle"><img src="https://raw.githubusercontent.com/Dragonboon/JigsawG/main/addons/jigsawg/icon.svg" width="36" height="36" alt="JigsawG icon"></td>
+      <td width="238" valign="middle"><h4><a href="https://github.com/Dragonboon/JigsawG">JigsawG</a></h4></td>
+      <td valign="middle">Resource-driven, procedural 2D jigsaw puzzles.</td>
+    </tr>
+    <tr>
+      <td width="56" align="center" valign="middle"><img src="https://raw.githubusercontent.com/Dragonboon/pixel-sprite-monster-generator/main/icon.png" width="36" height="36" alt="Monster generator icon"></td>
+      <td width="238" valign="middle"><h4><a href="https://github.com/Dragonboon/pixel-sprite-monster-generator">Pixel Sprite Monster Generator</a></h4></td>
+      <td valign="middle">Seeded pixel-art creature generation and PNG export.</td>
+    </tr>
+    <tr>
+      <td width="56" align="center" valign="middle"><img src="https://raw.githubusercontent.com/Dragonboon/pixel-space-background-generator/main/icon.png" width="36" height="36" alt="Space background generator icon"></td>
+      <td width="238" valign="middle"><h4><a href="https://github.com/Dragonboon/pixel-space-background-generator">Pixel Space Background Generator</a></h4></td>
+      <td valign="middle">Procedural, reproducible space backgrounds for 2D games.</td>
+    </tr>
+  </tbody>
+</table>
 
 <div align="center">
 
