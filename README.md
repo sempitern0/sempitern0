@@ -36,10 +36,10 @@ A selection of my more established work in infrastructure, security and develope
 | Project | Description |
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/sempitern0/RabbitMole/main/icons/app.png" width="30" alt="RabbitMole icon"> **[RabbitMole](https://github.com/sempitern0/RabbitMole)** | Offline-first workspace for technical audits, evidence, findings and reports. |
-| **[sysadmin](https://github.com/sempitern0/sysadmin)** | Linux, Windows and Active Directory administration, diagnostics and recovery assistants. |
+| <img src="https://raw.githubusercontent.com/sempitern0/sysadmin/main/icon.svg" width="30" alt="sysadmin icon"> **[sysadmin](https://github.com/sempitern0/sysadmin)** | Linux, Windows and Active Directory administration, diagnostics and recovery assistants. |
 | <img src="https://raw.githubusercontent.com/sempitern0/laravel-foundry/main/assets/foundry-mark.svg" width="30" alt="Laravel Foundry icon"> **[Laravel Foundry](https://github.com/sempitern0/laravel-foundry)** | Docker-first Laravel development environment with configurable services. |
 | <img src="https://raw.githubusercontent.com/sempitern0/Zeta/main/docs/assets/zeta-terminal-logo.svg" width="65" alt="Zeta logo"> **[Zeta](https://github.com/sempitern0/Zeta)** | Markdown-to-static-site publishing from Bash and PowerShell. |
-| **[dotfiles](https://github.com/sempitern0/dotfiles)** | Reproducible Linux workstation setup and security hardening workflows. |
+| <img src="https://raw.githubusercontent.com/sempitern0/dotfiles/main/icon.svg" width="30" alt="dotfiles icon"> **[dotfiles](https://github.com/sempitern0/dotfiles)** | Reproducible Linux workstation setup and security hardening workflows. |
 
 ### Dragonboon
 
