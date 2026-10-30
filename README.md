@@ -6,8 +6,13 @@
 
 Building reliable infrastructure, practical developer tools and reusable systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github)](https://github.com/sempitern0?tab=repositories)
-[![Dragonboon](https://img.shields.io/badge/Dragonboon-Godot%20Tooling-478CBF?style=flat-square&logo=godotengine&logoColor=white)](https://github.com/Dragonboon)
+[![Infrastructure — Linux & Windows](https://img.shields.io/badge/Infrastructure-Linux%20%26%20Windows-294B66?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/sempitern0/sysadmin)
+[![Security — Technical Audits](https://img.shields.io/badge/Security-Technical%20Audits-176760?style=for-the-badge&logoColor=white)](https://github.com/sempitern0/RabbitMole)
+[![Automation — Shell Tooling](https://img.shields.io/badge/Automation-Shell%20Tooling-45516B?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/sempitern0/dotfiles)
+
+[![Containers — Docker Compose](https://img.shields.io/badge/Containers-Docker%20Compose-215D84?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/sempitern0/laravel-foundry)
+[![CI/CD — GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-4E5487?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/sempitern0/bash-cli-starter)
+[![Game Development — Godot Addons](https://img.shields.io/badge/Game%20Dev-Godot%20Addons-36799B?style=for-the-badge&logo=godotengine&logoColor=white)](https://github.com/Dragonboon)
 
 </div>
 
